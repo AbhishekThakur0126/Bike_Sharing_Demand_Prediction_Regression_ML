@@ -98,4 +98,4 @@ Some facts based on analysis:
 
 * Clear days see a higher demand for bicycles than do snowy or wet days.
 
-* There is greater demand for bikes in the 22–25 (°C) temperature range.
+* There is greater demand for bikes in the 22–25 (°C) temperature range .
