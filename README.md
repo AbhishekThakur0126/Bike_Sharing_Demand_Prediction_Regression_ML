@@ -1,4 +1,4 @@
-# Capstone-Project-Bike-Sharing-Demand-Prediction-
+# Bike_Sharing_Demand_Prediction_Regression_ML_Project
 
 Predicting the optimal number of bikes needed at any specific moment and day is a crucial and intricate business challenge. Striking the right balance is of paramount importance too few bikes can lead to resource inefficiencies, including maintenance costs and the need for parking and security infrastructure, while an excess of bikes can result in financial losses. These losses encompass immediate revenue reduction due to a limited customer base and potential long-term impacts, such as the erosion of customer trust and loyalty.
 
