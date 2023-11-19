@@ -78,4 +78,24 @@ All these models were fine tuned using a grid search method with repeated cross-
 
 The model which provides the highest R2 values and lowest MSE, RMSE and MAE is the best one.And this problem can be solved using this model.
 
+# Outputs
+
 ![image](https://github.com/AbhishekThakur0126/Bike_Sharing_Demand_Prediction_Regression_ML/assets/128076308/8027f550-e534-47d8-b602-da66663396a0)
+
+![image](https://github.com/AbhishekThakur0126/Bike_Sharing_Demand_Prediction_Regression_ML/assets/128076308/0c53f8d5-4381-4866-9c46-35a0cf1663d6)
+
+# Conclusion
+
+Initially, I performed an exploratory data analysis (EDA) on each feature in our dataset after cleaning the data. I started by analyzing my dependent variable, "Rented Bike count," and then I made the necessary modifications.Subsequently, I examined both category and numerical independent variables. For these variables, I have performed both bivariate and monovariate analysis. In addition, I looked at the numerical variables and determined how they related to the dependent variable and how they were correlated. I also used VIF to address the multicollinearity issue. Additionally, I added an Additional Column and used LableEncoding on a number variable.
+
+Linear Regression, Lasso, Ridge, Random Forest, and Gradient Boosting were the five machine learning methods I used. In order to improve our models' performance, I also adjusted the hyperparameters.
+
+Some facts based on analysis:
+
+* Boosting with gradients The regressor model appears to be a viable solution to this issue because it yields positive results when looking at R-squared, Adjusted R2, and MSE and RMSE.
+
+* Summer is the busiest time of year to rent bikes, with winter seeing the lowest number of rentals.
+
+* Clear days see a higher demand for bicycles than do snowy or wet days.
+
+* There is greater demand for bikes in the 22–25 (°C) temperature range.
