@@ -63,6 +63,7 @@ Model Deployment: The selected model was deployed in a live production setting, 
 # Models Used
 
 For modeling we tried various regression models such as- 
+
 1)Linear Regression
 
 2)Lasso Regression
