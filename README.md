@@ -85,7 +85,6 @@ The model which provides the highest R2 values and lowest MSE, RMSE and MAE is t
 ![image](https://github.com/AbhishekThakur0126/Bike_Sharing_Demand_Prediction_Regression_ML/assets/128076308/0c53f8d5-4381-4866-9c46-35a0cf1663d6)
 
 # Conclusion
-
 Initially, I performed an exploratory data analysis (EDA) on each feature in our dataset after cleaning the data. I started by analyzing my dependent variable, "Rented Bike count," and then I made the necessary modifications.Subsequently, I examined both category and numerical independent variables. For these variables, I have performed both bivariate and monovariate analysis. In addition, I looked at the numerical variables and determined how they related to the dependent variable and how they were correlated. I also used VIF to address the multicollinearity issue. Additionally, I added an Additional Column and used LableEncoding on a number variable.
 
 Linear Regression, Lasso, Ridge, Random Forest, and Gradient Boosting were the five machine learning methods I used. In order to improve our models' performance, I also adjusted the hyperparameters.
@@ -98,4 +97,4 @@ Some facts based on analysis:
 
 * Clear days see a higher demand for bicycles than do snowy or wet days.
 
-* There is greater demand for bikes in the 22–25 (°C) temperature range .
+* There is greater demand for bikes in the 22–25 (°C) temperature range.
